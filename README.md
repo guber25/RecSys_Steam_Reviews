@@ -1,4 +1,4 @@
-# Reccomendation System using user reviews from Steam 🎮
+# Recommendation System using user reviews from Steam 🎮
 
 In this repository you will find my project for the **Network Science** exam at UniMi. 
 

@@ -9,13 +9,13 @@ In this case, I took a [dataset](https://www.kaggle.com/datasets/antonkozyriev/g
     <figcaption>Steam logo.</figcaption>
 </figure>
 
-The objective was to create a Reccomendation System for popular Steam games using reviews from June 2022 to December 2022 using the unsupervised learning algorithm **Node2Vec**.
+The objective was to create a Recommendation System for popular Steam games using reviews from June 2022 to December 2022 using the unsupervised learning algorithm **Node2Vec**.
 
-#### Steps
+### Steps
 
 I first preprocessed the afore mentioned dataset using **R**, in particular with the `dplyr` package of the tidyverse. Then I moved to **Python** where I created the graph thanks to the `networkx` library which was also the tool of choice to perform the study.
 
-#### Main results
+### Main results
 
 The obtained graph, already color-coded according to the [Louvain communities](https://en.wikipedia.org/wiki/Louvain_method) is:
 
